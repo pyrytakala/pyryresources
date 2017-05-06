@@ -68868,8 +68868,6 @@ Salete
 Salfen
 Salgado
 Salha
-Sali
-Salia
 Salie
 Salif
 Salih
@@ -68896,7 +68894,6 @@ Salja
 Salka
 Salka-Maaria
 Salkko
-Salko
 Salla
 Salla-Aija
 Salla-Anneli
